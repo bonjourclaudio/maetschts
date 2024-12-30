@@ -1,0 +1,6 @@
+# Ignore GO Build folder
+/bin
+
+# Env
+.DS_Store
+.vscode/*
